@@ -1,0 +1,13 @@
+{
+  "name": "http-splitter",
+  "description": "A simple HTTP splitter (not yet a reverse proxy)",
+  "version": "0.0.1",
+  "author": "korya <korya@github.com>",
+  "dependencies": {
+    "express": "3.x",
+    "bouncy": "3.2.x"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
